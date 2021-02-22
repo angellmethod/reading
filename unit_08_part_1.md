@@ -1,4 +1,4 @@
-# Unit 8: Part 1 
+# Unit 7: Part 1 
 ## Understanding Linear Models 
 
 In this part of the unit, which we anticipate might take you **60** minutes to complete, you will learn about linear models as a method of making predictions and estimating relationships. 
